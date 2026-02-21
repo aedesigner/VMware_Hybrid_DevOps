@@ -13,7 +13,7 @@ Provide a stable foundation for testing infrastructure automation, high availabi
 | **Host 1** | Dell PowerEdge R640 | Production Node A | **10Gb SFP+** |
 | **Host 2** | Dell PowerEdge R640 | Production Node B | **10Gb SFP+** |
 | **Host 3** | Dell PowerEdge R630 | Management & Witness Node | **1Gb Ethernet** |
-| **Switch** | Layer 3 Switch | Data Center Core | 10Gb SFP+ / 1Gb Ports |
+| **Switch** | Layer 3 Switch | catalyst 3750-x series| 10Gb SFP+ / 1Gb Ports |
 
 ---
 
